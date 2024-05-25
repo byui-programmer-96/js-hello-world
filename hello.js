@@ -4,7 +4,13 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
+console.log("Hello, World!"); 
+console.log("2+2=4");
+console.log('Hello'); setTimeout(() => { console.log('World!'); }, 1000);
+console.log("I like blue");console.log("I love pie!")
+console.log("'You must be the change you wish to see in the world. Mahatma Gandhi'")
+
+
 
 /*  
 Next, PLAY! 
